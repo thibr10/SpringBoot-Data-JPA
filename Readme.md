@@ -6,21 +6,6 @@
 
 Conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA. Para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.
 
-###### 🛑 Pré-requistos
-
-    Fundamentos do Spring Boot
-    
-    Noções de SQL
-
-###### 🚦 Guia
-
-    Apresentação do Projeto Base
-    Configuração do banco de dados (SGBD PostgreSQL)
-    Aplicando as annotations
-    Execução do fluxo back-end: Controller - Service - Repository
-    Validação - Hibernate Validator
-    Consultas Avançadas - Derived Query - Native Query
-
 ###### 🛠 Tecnologias Utilizadas
 
     IDE IntelliJ
